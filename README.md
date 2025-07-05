@@ -70,9 +70,6 @@ pip install pandas numpy matplotlib seaborn
 
 ## 📊 Visualizations
 
-> _Visualization examples can be added here if available (bar plots, trend lines, heatmaps, etc.)._
-
----
 
 ## 📉 Results and Insights
 
@@ -107,5 +104,5 @@ Feel free to contribute improvements, feature ideas, or visualizations. Open an 
 
 ## 📬 Contact
 
-- GitHub: `YourGitHubUsername`  
-- Email: `your-email@example.com`  
+- GitHub: `AhsanNFt`
+- Email: syedahsan0991@gmail.com
